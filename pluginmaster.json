@@ -13,9 +13,9 @@
     "LoadPriority": 0,
     "Punchline": "리테이너123abc",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PvPSelector/latest.zip"
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip,,,
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip"
   },
   {
     "Author": "puni.sh",
@@ -32,9 +32,9 @@
     "Punchline": "A toy펀치라인에이요",
     "AcceptsFeedback": true,
     "IconUrl": "https://love.puni.sh/resources/avarice.png",
-    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/KodakkuAssist/latest.zip"
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Avarice/latest.zip",
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Avarice/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Avarice/latest.zip"
   },
   {
     "Author": "LeonBlade",
@@ -46,9 +46,9 @@
     "DalamudApiLevel": 10,
     "Testing": false,
     "InstalledFromUrl": null,
-    "Punchline":"hit box",
-    "DownloadLinkInstall": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PixelPerfectEx/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PixelPerfectEx/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Karlin-Z/DalamudPlugins/raw/main/plugins/PixelPerfectEx/latest.zip",
+    "Punchline": "hit box",
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip",
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip"
   }
 ]

@@ -157,8 +157,8 @@
   },
   {
     "Author": "akira0245, Ori",
-    "Name": "Minibard2",
-    "InternalName": "Minibard2",
+    "Name": "Midibard2",
+    "InternalName": "Midibard2",
     "AssemblyVersion": "2.6.1.0",
     "Description": "연주 합주 가능, 그러나 합주 관련 일부 기능 작동불가, UI 켜두면 불안해짐",
     "ApplicableVersion": "any",
@@ -168,9 +168,9 @@
     "LoadPriority": 0,
     "Punchline": "MIDI파일 자동 연주및 합주 프로그램입니다.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Minibard2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Minibard2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Minibard2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Midibard2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Midibard2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Midibard2/latest.zip"
   },
   {
     "Author": "Chirp",

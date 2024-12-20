@@ -270,9 +270,9 @@
     "LoadPriority": 0,
     "Punchline": "60프레임 이상에서 물리가 망가지는(모핑이 사라지는) 현상을 개선합니다.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/HighFpsPhysicsPlugin/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/HighFpsPhysicsPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/HighFpsPhysicsPlugin/latest.zip"
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/HighFpsPhsyicsPlugin/latest.zip",
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/HighFpsPhsyicsPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/HighFpsPhsyicsPlugin/latest.zip"
   },
   {
     "Author": "Styr1x",

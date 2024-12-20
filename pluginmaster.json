@@ -13,7 +13,7 @@
     "LoadPriority": 0,
     "Punchline": "리테이너123abc",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip,,,
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip,
     "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip",
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip"
   },

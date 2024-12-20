@@ -35,23 +35,5 @@
     "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Avarice/latest.zip",
     "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Avarice/latest.zip",
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Avarice/latest.zip"
-  },
-  {
-    "Author": "LeonBlade",
-    "Name": "BDTHPlugin",
-    "Description": "A pl하우징ugin that allows you to draw ring and line on player or target.",
-    "InternalName": "PixelPerfectEx",
-    "AssemblyVersion": "3.0.6.31",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "Punchline": "hit box",
-	"AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip"
   }
 ]

@@ -304,9 +304,9 @@
     "LoadPriority": 0,
     "Punchline": "이펙트의 렉을 줄이고 핑으로 인한 지연의 영향을 줄입니다.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/NoClippy/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/NoClippy/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/NoClippy/latest.zip"
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Noclippy/latest.zip",
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Noclippy/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Noclippy/latest.zip"
   },
   {
     "Author": "Kouzukii",
@@ -321,8 +321,8 @@
     "LoadPriority": 0,
     "Punchline": "현재 확인중인 아이템이 어느 패치에 나왔는지 알려줍니다.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WhichPatchWasThat/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WhichPatchWasThat/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WhichPatchWasThat/latest.zip"
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WPWT/latest.zip",
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WPWT/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WPWT/latest.zip"
   }
 ]

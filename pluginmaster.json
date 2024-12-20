@@ -13,7 +13,7 @@
     "LoadPriority": 0,
     "Punchline": "리테이너123abc",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip",
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip,,,
     "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip",
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AutoRetainer/latest.zip"
   },
@@ -44,9 +44,12 @@
     "AssemblyVersion": "3.0.6.31",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
-    "Testing": false,
-    "InstalledFromUrl": null,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
     "Punchline": "hit box",
+	"AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip",
     "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip",
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip"

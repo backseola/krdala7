@@ -319,7 +319,7 @@
     "LoadRequiredState": 0,
     "LoadSync": false,
     "LoadPriority": 0,
-    "Punchline": "현재 확인중인 프로그램이 어느 패치에 나왔는지 알려줍니다.",
+    "Punchline": "현재 확인중인 아이템이 어느 패치에 나왔는지 알려줍니다.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WhichPatchWasThat/latest.zip",
     "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WhichPatchWasThat/latest.zip",

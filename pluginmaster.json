@@ -275,20 +275,38 @@
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/HighFpsPhysicsPlugin/latest.zip"
   },
   {
-    "Author": "Kouzukii",
-    "Name": "Which Patch Was That?",
-    "InternalName": "Which Patch Was That?",
-    "AssemblyVersion": "7.0.0.0",
+    "Author": "Styr1x",
+    "Name": " Browsingway",
+    ",: null,
+    "InternalName": "Browsingway",
+    "AssemblyVersion": "1.6.2.0",
     "Description": "제대로 동작함",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "LoadPriority": 0,
-    "Punchline": "현재 보고있는 아이템이 어떤 패치에서 나왔는지 알려줍니다..",
+    "Punchline": "ACT의 OverlayPlugin과 동일한 기능을 합니다.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WhichPatchWasThat/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WhichPatchWasThat/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WhichPatchWasThat/latest.zip"
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Browsingway/latest.zip",
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Browsingway/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Browsingway/latest.zip"
+  },
+  {
+    "Author": "UnknownX",
+    "Name": " NoClippy",
+    "InternalName": "NoClippy",
+    "AssemblyVersion": "0.5.0.16",
+    "Description": "확인 안해봄",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "이펙트의 렉을 줄이고 핑으로 인한 지연의 영향을 줄입니다.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/NoClippy/latest.zip",
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/NoClippy/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/NoClippy/latest.zip"
   }
 ]

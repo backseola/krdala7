@@ -338,8 +338,8 @@
     "LoadPriority": 0,
     "Punchline": "비활성,잠수,석상 등으로 자동으로 게임에서 접속종료되는것을 방지합니다.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AntiAfkkick-Dalamud/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AntiAfkkick-Dalamud/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AntiAfkkick-Dalamud/latest.zip"
+    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AntiAfkKick-Dalamud/latest.zip",
+    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AntiAfkKick-Dalamud/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AntiAfkKick-Dalamud/latest.zip"
   }
 ]

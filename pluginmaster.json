@@ -307,22 +307,5 @@
     "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WPWT/latest.zip",
     "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WPWT/latest.zip",
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/WPWT/latest.zip"
-  },
-  {
-    "Author": "NightmareXIV",
-    "Name": " AntiAfkKick",
-    "InternalName": "AntiAfkKick-Dalamud",
-    "AssemblyVersion": "2.1.0.6",
-    "Description": "제대로 동작함",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "LoadPriority": 0,
-    "Punchline": "비활성,잠수,석상 등으로 자동으로 게임에서 접속종료되는것을 방지합니다.",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AntiAfkKick-Dalamud/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AntiAfkKick-Dalamud/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/AntiAfkKick-Dalamud/latest.zip"
   }
 ]

@@ -4,7 +4,7 @@
     "Author": "LeonBlade",
     "Name": "BDTHPlugin",
     "Description": "BDTHPlugin is a Dalamud plugin for FFXIV which gives you more control over placing housing items.",
-    "InternalName": "[KR]BDTHPlugin",
+    "InternalName": "BDTHPlugin",
     "AssemblyVersion": "3.0.6.31",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
@@ -69,5 +69,5 @@
     "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/artisan/latest.zip",
     "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/artisan/latest.zip",
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/artisan/latest.zip"
-  }	  
+  }
 ]

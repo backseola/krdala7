@@ -1,2 +1,2 @@
 # DalamudPlugins
-일반적으로는 중국서버 레포스트리를 그대로 사용하면 되며, 일부 특수한 경우에만 사용하시면 됩니다.
+In general, you can use the Chinese server repository as it is, and only in some special cases.

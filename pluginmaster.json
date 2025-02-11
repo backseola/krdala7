@@ -1,4 +1,5 @@
 [
+
   {
     "Author": "LeonBlade",
     "Name": "BDTHPlugin",
@@ -18,23 +19,6 @@
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/BDTHPlugin/latest.zip"
   },
   {
-    "Author": "UnknownX",
-    "Name": "Cammy",
-    "InternalName": "Cammy",
-    "AssemblyVersion": "2.1.0.9",
-    "Description": "A simple camera editor to change various game defaults such as zoom and fov. This is a zoom hack, if you aren't comfortable with that fact, don't install it.",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "LoadPriority": 0,
-    "Punchline": "줌핵",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Cammy/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Cammy/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Cammy/latest.zip"
-  },
-  {
     "Author": "Ottermandias",
     "Name": " Glamourer",
     "InternalName": "Glamourer",
@@ -45,27 +29,10 @@
     "LoadRequiredState": 0,
     "LoadSync": false,
     "LoadPriority": 0,
-    "Punchline": "7.05 한섭 글래무어"
+    "Punchline": "7.05 작동 글래무어",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Glamourer/latest.zip",
     "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Glamourer/latest.zip",
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Glamourer/latest.zip"
-  },
-  {
-    "Author": "Ottermandias",
-    "Name": " Artisan",
-    "InternalName": "Artisan",
-    "AssemblyVersion": "4.0.1.8"
-    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "LoadPriority": 0,
-    "Punchline": "아티샨"
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Artisan/latest.zip",
-    "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Artisan/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Artisan/latest.zip"
   }
 ]

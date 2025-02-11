@@ -2,7 +2,7 @@
 
   {
     "Author": "LeonBlade",
-    "Name": "[KR7] BDTHPlugin",
+    "Name": "BDTHPlugin",
     "Description": "BDTHPlugin is a Dalamud plugin for FFXIV which gives you more control over placing housing items.",
     "InternalName": "[KR]BDTHPlugin",
     "AssemblyVersion": "3.0.6.31",
@@ -29,6 +29,7 @@
     "LoadRequiredState": 0,
     "LoadSync": false,
     "LoadPriority": 0,
+	
     "Punchline": ""
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/Cammy/latest.zip",
@@ -37,7 +38,7 @@
   },
   {
     "Author": "Ottermandias",
-    "Name": "[KR7] Glamourer",
+    "Name": "Glamourer",
     "InternalName": "Glamourer",
     "AssemblyVersion": "1.3.3.4",
     "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
@@ -54,7 +55,7 @@
   },
   {
     "Author": "puni.sh",
-    "Name": "[KR7] Artisan",
+    "Name": "Artisan",
     "InternalName": "Artisan",
     "AssemblyVersion": "4.0.1.8"
     "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
@@ -68,5 +69,4 @@
     "DownloadLinkInstall": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/artisan/latest.zip",
     "DownloadLinkTesting": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/artisan/latest.zip",
     "DownloadLinkUpdate": "https://github.com/backseola/krdala7/raw/refs/heads/main/plugins/artisan/latest.zip"
-  }
 ]
